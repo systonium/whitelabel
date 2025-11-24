@@ -2,4 +2,4 @@
 from __future__ import unicode_literals
 
 __version__ = '0.0.1'
-__logo__ = '/assets/whitelabel/images/whitelabel_logo.jpg'
+__logo__ = '/assets/whitelabel/images/whitelabel_logo.png'
